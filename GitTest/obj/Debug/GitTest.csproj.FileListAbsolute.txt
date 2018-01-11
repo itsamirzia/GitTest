@@ -1,0 +1,6 @@
+E:\Test_Apps\GitTest\GitTest\bin\Debug\GitTest.exe.config
+E:\Test_Apps\GitTest\GitTest\bin\Debug\GitTest.exe
+E:\Test_Apps\GitTest\GitTest\bin\Debug\GitTest.pdb
+E:\Test_Apps\GitTest\GitTest\obj\Debug\GitTest.csprojResolveAssemblyReference.cache
+E:\Test_Apps\GitTest\GitTest\obj\Debug\GitTest.exe
+E:\Test_Apps\GitTest\GitTest\obj\Debug\GitTest.pdb
